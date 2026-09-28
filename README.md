@@ -32,7 +32,9 @@ Open the local URL shown in the terminal (usually http://localhost:5173).
 
 ## Screenshots
 
-(added in the next commit)
+![Main view](screenshots/Main_view.png)
+![Filtered view](screenshots/Filtered_view.png)
+![Mobile view](screenshots/Mobile_view.png)
 
 ## Known Limitations
 
